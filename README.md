@@ -1,4 +1,4 @@
-# LV-LSV-Library-with-Buehler-Discrete-Dividends
+# LV/LSV Library with Buehler Discrete Dividends
 
 A C++ library with python interface which, starting from QuantLib's local volatility framework, introduces a robust calibration engine under the Buehler discrete-dividend model, as well as fast Monte Carlo path generation and a nonparametric approach to simulate local stochastic volatility (LSV) paths.
 
